@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="MP3.vcxproj" Id="de968e11-2c9b-4d6b-9be8-161448c1db60" />
+</Solution>
